@@ -41,10 +41,6 @@
 		{
 			"Name": "GooglePAD",
 			"Enabled": false
-		},
-		{
-			"Name": "MixamoAnimToUE5",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
